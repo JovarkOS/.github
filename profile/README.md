@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/jovarkos/.github">
-    <img src="https://github.com/JovarkOS/jovarkos-media/raw/main/JovarkOS-x200.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/JovarkOS/jovarkos-media/raw/main/jovarkos-logo/jovarkos-logo-text-light.png" alt="JovarkOS Logo on white background" width="80" height="80">
   </a>
 
   <h1 align="center">JovarkOS Linux</h1>
