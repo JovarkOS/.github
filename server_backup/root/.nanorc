@@ -1,0 +1,5 @@
+# set mouse
+set autoindent
+set linenumbers
+set matchbrackets "(<[{>]})"
+# set whitespace "•"
