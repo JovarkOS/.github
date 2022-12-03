@@ -70,5 +70,5 @@ Most of our work is licensed under the [MIT License](https://mit-license.org/), 
 
 ## Authors
 
-**Lucas Burlingham** - *Head of Development, DEP 25U US Army*
+**Lucas Burlingham** - *Head of Development (having put the project on hold...)
 
