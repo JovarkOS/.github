@@ -4,8 +4,6 @@
     <img src="https://github.com/JovarkOS/jovarkos-media/raw/main/jovarkos-logo/jovarkos-logo-text-light.png" alt="JovarkOS Logo on white background" width="160" height="160">
   </a>
 
-  <h1 align="center">JovarkOS Linux</h1>
-
   <p align="center">
     A GNU/Linux distribution based on Arch with the goal of striving towards an out of box experience the Linux desktop has never seen before. 
   </p>
