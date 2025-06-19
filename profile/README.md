@@ -33,8 +33,6 @@ Head over to our website: [jovarkos.org](https://jovarkos.org/).
 
 Download page: [JovarkOS Download Page](https://jovarkos.org/download)
 
-_Please consider using the "Choose Plan" button to download the ISO image. Donations of any size are welcome, and the funds will go towards keeping infrastructure running. Donations are processed via PayPal. After donating, your download will start automatically._ 
-
 ### Prerequisites
 
 The easiest way to get started is to flash a USB drive (3+ GB total space needed) with [ventoy](https://github.com/ventoy/Ventoy), or by using any of the following tools: 
